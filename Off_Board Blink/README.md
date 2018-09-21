@@ -15,4 +15,4 @@ red
 green  
     
 PROGRAM FUNCTIONS:  
-LED toggling  
+LED toggling at different intervals  
