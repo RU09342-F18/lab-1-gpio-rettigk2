@@ -1,4 +1,4 @@
-README for Embedded Systems Lab 1: Simple Blink  
+README for Embedded Systems Lab 1: Multi Blink    
   
 Author: Kyle Rettig  
 Created: September 21, 2018  
