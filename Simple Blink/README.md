@@ -12,4 +12,4 @@ VARIABLES USED:
 i  
     
 PROGRAM FUNCTIONS:  
-Toggling of an LED indefinitely    
+Toggling of an LED indefinitely  
