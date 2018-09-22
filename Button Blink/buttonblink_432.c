@@ -77,7 +77,7 @@ void main(void)
         if (buttonpress != BIT1)              //Checks if button is not pressed(have to do it this way because there isn't a pull down resistor)
         {
             P1OUT ^= 0x01;                    //toggles LED
-            __delay_cycles(10000);
+            __delay_cycles(10000);            //accounts for button bouncing
         }
         else
         {
